@@ -1,0 +1,194 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.main {
+  position: relative;
+  margin-bottom: 100px;
+  max-width: 100%;
+}
+
+.title {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  color: whitesmoke;
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+.sub_title {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.see_resume {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 10px 20px;
+  background-color: rgb(46, 112, 173);
+  border-color: cyan;
+  color: white;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  padding: 20px;
+}
+
+.specilization {
+  text-align: center;
+  position: relative;
+}
+
+.specilization_title {
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 30px;
+  color: white;
+}
+
+.img_spec {
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 50px;
+  }
+  
+
+.java_name {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+  }
+  
+.java_prof {
+    position: absolute;
+    left: 10%;
+    top: 75%;
+  }
+  
+
+  .flutter_name {
+    position: absolute;
+    left: 38%;
+    top: 50%;
+  }
+  
+  .flutter_prof {
+    position: absolute;
+    left: 38%;
+    top: 75%;
+  }
+  
+  .python_name {
+    position: absolute;
+    left: 68%;
+    top: 50%;
+  }
+  
+  .python_prof {
+    position: absolute;
+    left: 68%;
+    top: 75%;
+  }
+  
+
+  
+h3 {
+    font-weight: bold;
+    color: black;
+  }
+
+
+  h2 {
+    font-weight: bold;
+    color: white;
+  }
+  .desc {
+    text-align: left;
+    color: black;
+    color: white;
+  }
+  
+  
+  
+  .project_title {
+      font-weight: bolder;
+      font-size: 30px;
+      text-align: center;
+      color: white;
+      margin-bottom: 30px;
+    }
+  
+    .project_img {
+      text-align: center;
+    }
+    
+    .prev {
+      margin-bottom: 200px;
+    }
+    
+    .next {
+      margin-bottom: 200px;
+    }
+    
+    .actual_img {
+      border-radius: 15px;
+    }
+    
+  
+    .project_desc {
+      margin-left: 180px;
+    }
+    
+    .project_content {
+      text-align: left;
+      color: white;
+    }
+    
+    .project_name {
+      text-align: left;
+      color: white;
+      margin-left: 20px;
+    }
+  
+    .resume {
+    text-align: center;
+    padding-bottom: 200px;
+    padding-top: 50px;
+  }
+  
+  .img_container {
+    float: left;
+    width: 33%;
+    padding-top: 50px;
+  }
+  
+  .img_resume {
+    border-radius: 15px;
+  }
+  .contact_me {
+    margin-top: 100px;
+    text-align: center;
+    justify-content: left;
+  }
+
+
+
+
