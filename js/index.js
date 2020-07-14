@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  alert('hai')
+  
 
   //animating developer text
   var count = 0;
