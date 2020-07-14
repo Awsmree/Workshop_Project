@@ -123,7 +123,7 @@ $(document).ready(function () {
       project_count = 0;
     }
     project_count++;
-    $('.actual_img').attr('src', 'C:/Users/yadav/Desktop/Workshop_project/img/project_' + project_count + '.jpg');
+    $('.actual_img').attr('src', '/img/project_' + project_count + '.jpg');
     if (project_count == 1) {
       $('.project_name').text('Laundary App');
       $('.project_content').text('Laundary App helps us to deal with wash dry clean and iron with pick up and delivery services for every clothes.Laundry App lets us to book laundry services as per our comfort')
@@ -142,7 +142,7 @@ $(document).ready(function () {
       project_count = 2;
     }
     project_count--;
-    $('.actual_img').attr('src', 'C:/Users/yadav/Desktop/Workshop_project/img/project_' + project_count + '.jpg');
+    $('.actual_img').attr('src', '/img/project_' + project_count + '.jpg');
     if (project_count == 1) {
       $('.project_name').text('LAUNDARY APP');
       $('.project_content').text('T')
